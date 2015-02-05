@@ -8,6 +8,8 @@
 
 #import "AppDelegate.h"
 
+#import "Nice.h"
+
 @implementation AppDelegate
 
 @synthesize managedObjectContext = _managedObjectContext;
